@@ -1,0 +1,6 @@
+
+Ejercicio de laboratorio de la clase de DESARROLLO WEB
+
+CURRICULIM EN HTML, UTILIZANDO DISEÑO EN CSS.
+
+9 DE ENERO DEL 2019
